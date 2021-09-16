@@ -1,4 +1,7 @@
-# Covid_BR
-Nesse projeto eu desejo utilizar o banco de dados de Covid oferecido pelo Ministério da Saúde brasileiro, filtrar informações, plotar gráficos e mapas. Desejo melhorar a implementação desse código a medida que aprendo novas técnicas em python. 
+## Análise exploratória de dados do Covid no Brasil
 
-In this project, I want to use the Covid database provided by the Brazilian Health Ministry, then filter information and plot it in graphs and maps. I want to improve this code as I learn new techniques in python.
+### Sobre
+* O objetivo desse projeto foi usar o banco de dados de COVID fornecido pelo Ministério da Saúde para filtrar informações de casos e óbitos desde o início da pandemia até agosto de 2020;
+* Além do banco de dados de casos e óbitos, também utilizei o banco de dados do IBGE com informações de municípios e suas coordenadas;
+* Para realizar a análise exploratória, utilizei Python e suas bibliotecas, como: datetime, pandas, matplotlib e basemap;
+* Para realizar a visualização dessas informações, plotei gráficos de barras e linhas, além de mapas. 
